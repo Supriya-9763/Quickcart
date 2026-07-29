@@ -1,0 +1,2 @@
+APP_NAME=QuickCart
+VERSION=2.0
